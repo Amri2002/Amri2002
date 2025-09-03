@@ -8,13 +8,7 @@
 
 ## 🚀 About Me  
 - 🌱 Currently exploring **.NET ecosystem** and **Next.js**  
-- 🛠️ Experienced with **React, Laravel, Java, C, TypeScript**  
-- 🔭 Some of my projects:  
-  - **Drizzle Dry** – Umbrella drying machine (Team project)  
-  - **ParkSnap** – Smart parking slot reservation system    
-  - **Story App** – Laravel + Inertia + React  
-  - **UniHub** – University communication platform
-  - **ESL App** – Managing Electronic Shelf Labels with design editor  
+- 🛠️ Experienced with **React, Laravel, Java, C, TypeScript**   
 
 ---
 
