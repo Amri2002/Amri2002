@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there, I'm Amri 👋  
 
-<!--
-**Amri2002/Amri2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate at **University of Moratuwa**  
+💻 Passionate about **Software Development | Web Development | .NET | React | Laravel | Next.js**  
+⚡ Love building projects that solve real-world problems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🌱 Currently exploring **.NET ecosystem** and **Next.js**  
+- 🛠️ Experienced with **React, Laravel, Java, C, TypeScript**  
+- 🔭 Some of my projects:  
+  - **Drizzle Dry** – Umbrella drying machine (Team project)  
+  - **ParkSnap** – Smart parking slot reservation system    
+  - **Story App** – Laravel + Inertia + React  
+  - **UniHub** – University communication platform
+  - **ESL App** – Managing Electronic Shelf Labels with design editor  
+
+---
+
+## 🛠️ Tech Stack  
+**Languages & Frameworks**  
+- Java, C, JavaScript, TypeScript  
+- React, Next.js, Laravel, ASP.NET Core  
+- MySQL, EF Core  
+
+**Tools**  
+- Git & GitHub  
+- XAMPP, Postman  
+- Photoshop, Figma  
+
+---
+
+## 📊 GitHub Stats  
+![Amri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amri2002&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amri2002&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Connect with Me  
+- 📧 Email: [muhammedamri2002@gmail.com](mailto:muhammedamri2002@gmail.com)  
+- 💼 [LinkedIn](www.linkedin.com/in/muhammed-amri-068241251)
+---
+
+⭐️ From [Amri](https://github.com/Amri2002)
