@@ -33,7 +33,7 @@
 
 ## 📫 Connect with Me  
 - 📧 Email: [muhammedamri2002@gmail.com](mailto:muhammedamri2002@gmail.com)  
-- 💼 [LinkedIn](www.linkedin.com/in/muhammed-amri-068241251)
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammed-amri-068241251/)
 ---
 
 ⭐️ From [Amri](https://github.com/Amri2002)
